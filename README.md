@@ -9,7 +9,7 @@ Currently, I am seeking larger opportunities in IT companies, with a particular 
 - **Frameworks:** ReactJS, NextJS, TailwindCSS, React-Native, Bootstrap
 - **Frontend Development:** HTML/HTML5, CSS, Javascript
 - **Backend Development:** Node.js, Express.js
-- **Languages:** C, C++, JAVA, PHP
+- **Languages:** C, C++, JAVA, PHP, Data Structures
 - **Database:** MongoDB, MySql, PostgreSQL
 - **Service:** AWS
 - **Other Tools:** Git, Github
